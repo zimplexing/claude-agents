@@ -9,13 +9,13 @@ This repository contains custom agents for Claude Code.
 **For Project-Specific Use:**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/iannuttall/claude-agents/main/setup.sh | bash
+curl -fsSL https://raw.githubusercontent.com/iannuttall/claude-agents/main/install.sh | bash
 ```
 
 **For Global Use (All Projects):**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/iannuttall/claude-agents/main/setup.sh | bash -s -- -g
+curl -fsSL https://raw.githubusercontent.com/iannuttall/claude-agents/main/install.sh | bash -s -- -g
 ```
 
 ### Manual Installation
