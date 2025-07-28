@@ -5,7 +5,7 @@
 #   -g: Install globally (~/.claude/agents/) instead of project-specific (.claude/agents/)
 
 # GitHub repository information
-REPO_URL="https://raw.githubusercontent.com/zimplexing/claude-agents/main/agents"
+REPO_URL="https://raw.githubusercontent.com/iannuttall/claude-agents/main/agents"
 AGENT_FILES=(
   "code-refactorer.md"
   "content-writer.md"
