@@ -11,13 +11,13 @@ Download and run the setup script directly from GitHub:
 **For Project-Specific Use:**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/zimplexing/claude-agents/main/setup.sh | bash
+curl -fsSL https://raw.githubusercontent.com/zimplexing/claude-agents/main/install.sh | bash
 ```
 
 **For Global Use (All Projects):**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/zimplexing/claude-agents/main/setup.sh | bash -s -- -g
+curl -fsSL https://raw.githubusercontent.com/zimplexing/claude-agents/main/install.sh | bash -s -- -g
 ```
 
 ### Using the Install Script
